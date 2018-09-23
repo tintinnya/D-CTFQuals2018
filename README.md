@@ -1,4 +1,4 @@
-# D-CTFQuals2018
+# D-CTFQuals2018 Write-up
 Write ups for what I did on D-CTF Quals 2018. For those questions that are not submitted, I'll put asterisk on the title
 
 I only submitted 4 flags, 3 with 1's and 1 with 50 score:
