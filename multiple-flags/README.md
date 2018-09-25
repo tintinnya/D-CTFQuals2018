@@ -15,7 +15,7 @@ Citing the flag position from above link, I decoded each line as follow
 ```
 j/LTR	d/4	c/3	t	f/6	s	p
 e/5	c/3	i/9	a/1	l	f	l
-a/1	g/7	NUM	k/0	k/0	j/0	a/1
+a/1	g/7	NUM	k/0	k/0	j/LTR	a/1
 a/1	NUM	k/0	k/0	j/LTR	a/1	a/1
 NUM	k/0	k/0	i/9	i/9	a/1	c/3
 c/3	g/7	j/LTR	d/4	c/3	t	f
